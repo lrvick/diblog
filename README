@@ -1,0 +1,56 @@
+	diBlog 0.7 <http://sourceforge.net/projects/diblog/>
+
+WHAT IS DIBLOG?
+
+  A simple "drop-in" single-file blog script built to be easily integrated into
+  most php sites
+
+  diBlog is aimed to be a full "drop-in" replacement for complicated PHP blog
+  software.
+
+CURRENT FEATURES:
+
+ * Ability to easily integrate into an existing PHP website by including header
+   or footer files of your choice but can also be run as a standalone website.
+
+ * Full commenting support with optional customizable human challenge questions
+   to help prevent spam.
+
+ * Simple direct admin panel for easily doing common tasks such as adding or
+   deleting articles and comments, managing tags, setting up previews for
+   articles, etc.
+
+ * Customizable "Recent Comments" and "Tag Cloud" blocks that can be outputted
+   anywhere on your site.
+
+ * Simple single-page display of archives for easy navigation to a given
+   article.
+
+ * Supports diFonts to generate headers for articles in any TrueType font to
+   match any color scheme with optional drop-shadow.
+
+ * Totally W3C HTML4.0-Strict standards compliant and IE6 hacks are ONLY sent
+   to IE6 via PHP browser detection.
+
+ * Theme is 100% CSS based for easy theming by including any CSS stylesheet of
+   your choice to over-ride the built-in defaults.
+
+NOTES
+
+  Give it a try in your site and let us know if you find it useful.
+
+  We do not require any compensation for this project and we wrote it because
+  we were unable to find any simple blogging application that suited our needs
+  for easy integration into many of our clients websites... so we wrote our own
+  and decided to share it with the community. 
+
+  Although this application is totally open-source and free (GPL)... if you do
+  find it useful and have a few bucks to spare please help feed us. 
+
+  You can Paypal donations to billing@crosstechnical.net. 
+ 
+  Any comments, questions, suggestions are both welcome and very much
+  appreciated. 
+
+  If you end up choosing this for your blogging needs on a project please shoot
+  us the url so we can link to you!

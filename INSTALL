@@ -1,0 +1,20 @@
+REQUIREMENTS: 
+
+ * Apache 2+ with MultiViews enabled. 
+
+ * PHP5 support
+
+ * MySQL 5 with one empty available database and a working user/password with
+   basic permissions.
+
+INSTALLATION:
+ 
+ 1. Edit configuration variables at the start of the script to suit your needs.
+
+ 2. Place the script in a web-accessible directory based on how you want it to
+    be accessed. (For instance you can rename the file to blog.php, place it in
+		the root of your webserver and can access it as http://example.com/blog)
+
+ 3. Open the script in a web browser.
+
+ 4. You can now begin adding articles via http://example.com/blog/admin.

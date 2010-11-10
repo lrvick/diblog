@@ -1,0 +1,22 @@
+        This is at least a partial credits-file of people that have
+        contributed to the diFonts project.  It is sorted by name and
+        formatted to allow easy grepping and beautification by
+        scripts.  The fields are: name (N), email (E), web-address
+        (W), PGP key ID and fingerprint (P), description (D), and
+        snail-mail address (S).
+
+----------
+
+N: David T. Pflug
+E: david@tpflug.com
+D: Code structure, planning, various bits of logic and regex.
+S: P.O. Box 2171
+S: Umatilla, FL 32784
+
+N: Lance Reagan Vick
+E: lance@reaganvick.com
+W: http://reaganvick.com
+P: 1024D/6A627C40 4237 9666 2025 35EA E5DD  53CD BDE9 6BA7 421B A39E
+D: Code structure, planning, first prototype, documentation.
+S: P.O. Box 2171
+S: Umatilla, FL 32784
